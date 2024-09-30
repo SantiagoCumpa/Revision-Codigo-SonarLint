@@ -16,6 +16,8 @@ Como vemos en el código esta cadena se utiliza para mostrar enviar un mensaje d
 
 En este caso se está presentando una violación al utilizar una variable con el nombre de un Identificador del propio lenguaje
 
+![image](https://github.com/user-attachments/assets/39b167f6-8183-41d9-90b1-19195a4da113)
+
 Este problema se puede solucionar utilizando otro nombre, incluso utilizando uno más acorde a la data que se está manejando. En este caso se está leyendo un CSV de estudiantes por lo que la variable podría cambiarse de nombre como se muestra en la imagen:
 
 ![image](https://github.com/user-attachments/assets/d7e900a3-20a5-42cc-8eca-fa145d94bde4)
